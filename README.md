@@ -29,7 +29,8 @@ print("Swapped values are:",a,b)
 ```
 
 ## OUTPUT:
-![output](https://github.com/Narendran-sec/Swapping-two-values/assets/147473131/662b93a5-8a04-41cf-ac1e-208c03abd8c7)
+![output](https://github.com/Narendran-sec/Swapping-two-values/assets/147473131/568f35fd-0ca1-4308-a677-d7fa8fcb26d9)
+)
 )
 ## RESULT:
 Thus the swapping of two values are successfully executed
